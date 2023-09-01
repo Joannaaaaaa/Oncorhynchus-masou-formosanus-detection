@@ -22,4 +22,5 @@ result_video:
 https://youtu.be/ph4j2CFaBL4?si=o6jOGF1SFQizl2JA
 
 result image: 
+
 <img src="https://github.com/Joannaaaaaa/Oncorhynchus-masou-formosanus-detection/assets/98182630/aba721a6-3a73-4553-b30c-02a09f7f3137" width="450">
