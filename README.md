@@ -23,8 +23,7 @@ python albumentation.py
 
 ## Train
 
-get the training weights
-
+get the training weights  
 run train.py:
 
 ```
