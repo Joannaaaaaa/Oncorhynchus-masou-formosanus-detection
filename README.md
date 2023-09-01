@@ -24,6 +24,7 @@ python albumentation.py
 ## Train
 
 get the training weights
+
 run train.py:
 
 ```
@@ -31,6 +32,7 @@ python train.py
 ```
 
 Use weights to see the result
+
 run detect_test.py:
 
 ```
