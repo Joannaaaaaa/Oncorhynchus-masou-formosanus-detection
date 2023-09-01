@@ -11,10 +11,10 @@ Python version==3.7
 
 ## Dataset
 
-6000張（1000手動label 5000利用資料增強翻轉）:
-網址
+6000張（1000手動label 5000利用資料增強翻轉）:  
+網址  
 
-Data Augmentation:
+Data Augmentation  
 run albumentation.py:
 
 ```
@@ -30,14 +30,13 @@ run train.py:
 python train.py
 ```
 
-Use weights to see the result
-
+Use weights to see the result  
 run detect_test.py:
 
 ```
 python detect_test.py
 ```
-tracking and identifing the fish by this code
+tracking and identifing the fish by this code  
 run tracking_result.py:
 
 ```
@@ -45,7 +44,7 @@ python tracking_result.py
 ```
 
 ## result
-result_video:
+result_video:  
 https://youtu.be/ph4j2CFaBL4?si=o6jOGF1SFQizl2JA
 
 result image: 
