@@ -1,7 +1,7 @@
 # Oncorhynchus-masou-formosanus-detection
-偵測櫻花鉤吻鮭
+Detection of Formosan Landlocked Salmon
 
-利用自動化辨識及追蹤去計算櫻花鉤吻鮭的平均個數以及移動趨勢
+Use automated recognition and tracking to calculate the average number and movement trends of Formosan Landlocked Salmon.
 
 
 ## Environment
